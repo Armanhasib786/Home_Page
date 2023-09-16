@@ -1,0 +1,267 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  margin-right: 0;
+}
+
+.imagee{
+  width: 100%;
+  height: 450px;
+  position: relative;
+  top: -64px;
+}
+
+.onimg{
+opacity: 0.8;
+
+}
+
+.image-1 {
+  opacity: 0.6;
+}
+ul li a{
+  color: rgb(50, 50, 250);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+.section-1{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.box{
+  background-color: rgb(235, 240, 240);
+  padding: 100px;
+
+}
+.box p {
+  display: inline-block;
+}
+.blank p{
+  position: relative;
+  left: 44%;
+  top: 50%;
+
+}
+.short{
+  position: relative;
+  left: 46%;
+  top: 30%;
+
+}
+.blank-1{
+  position:relative;
+  top: 40%;
+
+}
+.blank p{
+  font-size: 33px;
+  font-weight: bold;
+  color: rgb(9, 9, 114);
+}
+.blank hr{
+width: 105px;
+height: 6px;
+border-radius: 30px;
+
+}
+.section-2{
+  text-decoration: none;
+}
+.section-5{
+  text-align: center;
+}
+.section-5 h5{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+.section-4 h3{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+.section-4 h3{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+.section-3 h3{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+.section-2 h3{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+.section-1 h3{
+  color: rgb(9, 9, 114);
+  font-weight: bold;
+}
+
+.section-5 p{
+  color: gray;
+}
+
+.box-2{
+  height: 180px;
+  width: 100%;
+  background-color: rgb(32, 32, 187);
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn{
+  padding-left: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+  float: right;
+}
+.box-2 p {
+
+
+  align-items: center;
+}
+
+.companey{
+  background-color: rgba(232, 233, 232, 0.938);
+  padding: 30px;
+}
+.pic img{
+ height: 170px;
+ width: 200px;
+}
+.dec{
+  width: 62%;
+}
+.set ul{
+  list-style: none;
+}
+.set ul li a{
+  text-decoration: none;
+  color:rgb(216, 213, 213);
+  padding-right: 70px;
+}
+
+.round{
+  border-radius: 20px;
+}
+nav img{
+  height: 60px;
+  width: auto;
+}
+nav{
+  padding-top:6px;
+}
+.rang{
+  background-color: rgb(10, 10, 87);
+}
+.rang-2{
+  background-color: rgb(6, 6, 66);
+}
+.user_text{
+  padding-top: 70px;
+}
+.user_text h3{
+  color: rgb(6, 6, 109);
+  font-weight: bold;
+}
+.user_text h4{
+  color: rgb(6, 6, 109); 
+}
+.user_text h6{
+  color: gray;
+}
+.user_text p{
+  color: gray;
+}
+.user_text img{
+  opacity: 0.8;
+  border-radius: 15px  0px 0px 15px;
+}
+/*.Company_Overview{
+  position: relative;
+  top: 50%;
+  left: 50%;
+}*/
+.Company_Overview h1{
+  color: rgb(6, 6, 109); 
+  text-align: center;
+}
+
+.bg{
+  padding: 35px;
+  background-color: rgb(240, 240, 241);
+}
+
+.Shift h4{
+  padding-left: 10%;
+}
+.Shift p{
+  text-align: justify;
+  
+}
+.first_letter{
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+
+}
+
+.image{
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+.overlay{
+  background-color:	rgb(0,0,0,0.5);
+  height: 600px;
+  width: 100%;
+  position: absolute;
+
+
+ 
+
+}
+.overlay_1{
+position: relative;
+left: 12%;
+top: 20%;
+  font-size: 40px;
+  color: yellow;
+  font-weight: bold;
+}
+
+.cl-1{
+  color:white;
+  opacity: 1;
+}
+
+.global{
+  position: relative;
+  top: 40%;
+  left: 40%;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(6, 6, 109); 
+}
+.card_image{
+  height: 220px;
+}
+.card-body h4 {
+  color: rgb(6, 6, 109);
+  font-weight: bold;
+}
+.card-body p{
+  font-size: 18px;
+  color: gray;
+}
+.card-body small{
+  color: gray;
+}
+.border_remove{
+  border: none;
+}
+.arman{
+  background-color:rgb(214, 191, 191, 0.8);
+}
